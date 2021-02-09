@@ -1,0 +1,31 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="OldTownCofee.tk" resolutions="1x" timestamp="1612882026056">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4215151895" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="wherda-arsianto-mh8g-fdyvlu-unsplash.jpg" crc="341448043" seo="true" ref="index"/>
+    <file name="u83-4.png" crc="390531856" ref="index"/>
+    <file name="u93-4.png" crc="3761488721" ref="index"/>
+    <file name="u96-4.png" crc="107949730" ref="index"/>
+    <file name="u109-4.png" crc="8632545" ref="index"/>
+    <file name="u117-4.png" crc="4194087289" ref="index"/>
+    <file name="u115-4.png" crc="254172526" ref="index"/>
+    <file name="u114-4.png" crc="3834190190" ref="index"/>
+    <file name="u113-4.png" crc="279596820" ref="index"/>
+    <file name="pasted svg 452293x116.svg" crc="255348741" ref="index"/>
+    <file name="pasted svg 452293x116_poster_.png" crc="4105159837" ref="index"/>
+    <file name="project-coffee-shop1.png" crc="4081021664" seo="true" ref="index"/>
+    <file name="u173-4.png" crc="454149876" ref="index"/>
+    <file name="u174-4.png" crc="3796756766" ref="index"/>
+    <file name="project-coffee-shop12.png" crc="4168289423" seo="true" ref="index"/>
+    <file name="helena-lopes-ecaur5vkm74-unsplash.jpg" crc="3864881822" seo="true" ref="index"/>
+    <file name="matt-hoffman-v9i5q5mdf-g-unsplash.jpg" crc="127024288" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="87563372" seo="true" mt="1612881913531" redirect="true"/>
+</manifest>
